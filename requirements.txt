@@ -1,9 +1,7 @@
-tensorflow
+tensorflow==2.15.0
 numpy
 pandas
 scikit-learn
 matplotlib
 tensorboard
 streamlit
-protobuf==3.20.3
-
